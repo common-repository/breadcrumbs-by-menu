@@ -1,0 +1,36 @@
+/*STYLE*/
+/*MAIN COINTAINER DIV*/
+.breadcrumbs-by-menu{}
+
+/*FIRST ITEM*/
+.breadcrumbs-by-menu .bcbm-item.first{}
+
+/*ITEM*/
+.breadcrumbs-by-menu .bcbm-item{}
+
+/*LAST ITEM*/
+.breadcrumbs-by-menu .bcbm-item.last{}
+
+/*FIRST SEPARATOR*/
+.breadcrumbs-by-menu  .bcbm-separator.first{}
+
+/*SEPARATOR*/
+.breadcrumbs-by-menu  .bcbm-separator{}
+
+/*LAST SEPARATOR*/
+.breadcrumbs-by-menu  .bcbm-separator.last{}
+
+
+/*ITEM 0*/.breadcrumbs-by-menu .bcbm-item.level0{}
+/*ITEM 1*/.breadcrumbs-by-menu .bcbm-item.level1{}
+/*ITEM 2*/.breadcrumbs-by-menu .bcbm-item.level2{}
+/*ITEM 3*/.breadcrumbs-by-menu .bcbm-item.level3{}
+/*ITEM 4*/.breadcrumbs-by-menu .bcbm-item.level4{}
+/* ... */
+
+/*SEPARTOR 0*/.breadcrumbs-by-menu .bcbm-separator.level0{}
+/*SEPARTOR 1*/.breadcrumbs-by-menu .bcbm-separator.level1{}
+/*SEPARTOR 2*/.breadcrumbs-by-menu .bcbm-separator.level2{}
+/*SEPARTOR 3*/.breadcrumbs-by-menu .bcbm-separator.level3{}
+/*SEPARTOR 4*/.breadcrumbs-by-menu .bcbm-separator.level4{}
+/* ... */
